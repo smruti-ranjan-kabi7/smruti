@@ -1,2 +1,3 @@
 # smruti
-This is my first Git depository
+This is my first Git depository.
+Author - Smruti
