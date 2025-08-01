@@ -1,4 +1,4 @@
 # smruti
 This is my first Git depository.
 <br>
-Author - Smruti
+Author - Smruti (Giet)
